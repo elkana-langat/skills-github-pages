@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Elkana Lang'at
-
 I'm a passionate **Cloud Security Enthusiast** with a strong foundation in cloud platforms, identity and access management, and security compliance. I enjoy learning, solving cybersecurity challenges, and building hands-on labs to apply real-world security concepts.
 
 ---
