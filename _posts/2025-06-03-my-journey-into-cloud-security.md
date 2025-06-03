@@ -1,7 +1,6 @@
 ---
 title: "My Journey into Cloud Security: From Fundamentals to the AZ-500"
 date: 2025-06-03
-author: Elkana Lang'at
 ---
 
 Cloud security has become one of the most important pillars in the tech industry today, and my journey into this space has been both exciting and enlightening.
